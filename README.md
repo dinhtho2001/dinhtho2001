@@ -71,8 +71,7 @@
 
 ### Follow Me
 
-<!-->
-
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/kishan0725/)
 [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725)
 [![StackOverflow Badge](https://img.shields.io/badge/-kishan--lal-f48225?style=flat-circle&labelColor=f48225&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10150468/kishan-lal)](https://stackoverflow.com/users/10150468/kishan-lal)
