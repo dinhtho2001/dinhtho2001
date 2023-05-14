@@ -24,42 +24,7 @@
 
 ### Worked with
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code>
-
-<code><img height="40" src="https://pbs.twimg.com/media/EUXTLf8XYAEjUgi.png" title="C#"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"></code>
-
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="Spring-boot"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"></code>
-
-<code><img height="40" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo-700x394.png" title=".Net Framework"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="Mongodb"></code>
-
-<code><img height="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="Sql Server"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql"></code>
-
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-B-ri1dlCKnw96h6gXWcCPlwBv2ny5pTcA&usqp=CAU" title="PostgreSql"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
-
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/trello_icon_130813.png" title="Trello"></code>
-
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code> <code><img height="40" src="https://pbs.twimg.com/media/EUXTLf8XYAEjUgi.png" title="C#"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"></code> <code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="Spring-boot"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"></code> <code><img height="40" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo-700x394.png" title=".Net Framework"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="Mongodb"></code> <code><img height="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="Sql Server"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql"></code> <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-B-ri1dlCKnw96h6gXWcCPlwBv2ny5pTcA&usqp=CAU" title="PostgreSql"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code> <code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/trello_icon_130813.png" title="Trello"></code>
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code>
 
